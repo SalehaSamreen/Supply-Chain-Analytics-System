@@ -1,0 +1,201 @@
+product_id,product_name,category,cost_price,retail_price
+ELE_00,Electronics Product 1,Electronics,17.83,25.47
+ELE_01,Electronics Product 2,Electronics,18.01,22.01
+ELE_02,Electronics Product 3,Electronics,109.41,122.91
+ELE_03,Electronics Product 4,Electronics,91.78,168.05
+ELE_04,Electronics Product 5,Electronics,129.34,174.78
+ELE_05,Electronics Product 6,Electronics,132.62,216.47
+ELE_06,Electronics Product 7,Electronics,124.39,220.98
+ELE_07,Electronics Product 8,Electronics,114.47,222.34
+ELE_08,Electronics Product 9,Electronics,35.48,62.02
+ELE_09,Electronics Product 10,Electronics,96.15,163.29
+FAS_00,Fashion Product 1,Fashion,184.44,362.17
+FAS_01,Fashion Product 2,Fashion,72.61,143.41
+FAS_02,Fashion Product 3,Fashion,101.9,171.93
+FAS_03,Fashion Product 4,Fashion,109.19,137.96
+FAS_04,Fashion Product 5,Fashion,100.8,139.44
+FAS_05,Fashion Product 6,Fashion,196.53,340.32
+FAS_06,Fashion Product 7,Fashion,184.28,235.38
+FAS_07,Fashion Product 8,Fashion,88.91,145.82
+FAS_08,Fashion Product 9,Fashion,71.41,126.66
+FAS_09,Fashion Product 10,Fashion,170.48,230.13
+GRO_00,Groceries Product 1,Groceries,45.06,84.2
+GRO_01,Groceries Product 2,Groceries,187.39,369.16
+GRO_02,Groceries Product 3,Groceries,109.16,189.64
+GRO_03,Groceries Product 4,Groceries,184.34,354.88
+GRO_04,Groceries Product 5,Groceries,187.36,356.73
+GRO_05,Groceries Product 6,Groceries,87.55,120.93
+GRO_06,Groceries Product 7,Groceries,175.84,308.29
+GRO_07,Groceries Product 8,Groceries,144.01,260.75
+GRO_08,Groceries Product 9,Groceries,179.75,238.87
+GRO_09,Groceries Product 10,Groceries,120.84,238.71
+HOM_00,Home Decor Product 1,Home Decor,82.35,104.35
+HOM_01,Home Decor Product 2,Home Decor,147.33,223.86
+HOM_02,Home Decor Product 3,Home Decor,197.32,251.29
+HOM_03,Home Decor Product 4,Home Decor,89.05,125.17
+HOM_04,Home Decor Product 5,Home Decor,76.17,107.08
+HOM_05,Home Decor Product 6,Home Decor,70.65,103.9
+HOM_06,Home Decor Product 7,Home Decor,13.52,23.43
+HOM_07,Home Decor Product 8,Home Decor,195.05,218.3
+HOM_08,Home Decor Product 9,Home Decor,103.52,156.6
+HOM_09,Home Decor Product 10,Home Decor,76.53,91.48
+BOO_00,Books Product 1,Books,116.7,205.78
+BOO_01,Books Product 2,Books,24.16,31.4
+BOO_02,Books Product 3,Books,122.85,200.04
+BOO_03,Books Product 4,Books,140.64,174.68
+BOO_04,Books Product 5,Books,85.03,148.71
+BOO_05,Books Product 6,Books,169.77,266.44
+BOO_06,Books Product 7,Books,64.22,85.67
+BOO_07,Books Product 8,Books,135.64,170.13
+BOO_08,Books Product 9,Books,197.66,281.99
+BOO_09,Books Product 10,Books,120.49,191.42
+TOY_00,Toys Product 1,Toys,120.4,154.49
+TOY_01,Toys Product 2,Toys,82.77,161.03
+TOY_02,Toys Product 3,Toys,87.42,141.6
+TOY_03,Toys Product 4,Toys,142.18,264.42
+TOY_04,Toys Product 5,Toys,139.16,273.34
+TOY_05,Toys Product 6,Toys,84.04,148.9
+TOY_06,Toys Product 7,Toys,137.51,151.35
+TOY_07,Toys Product 8,Toys,62.1,112.99
+TOY_08,Toys Product 9,Toys,173.23,274.24
+TOY_09,Toys Product 10,Toys,47.2,68.13
+SPO_00,Sports Product 1,Sports,150.05,244.64
+SPO_01,Sports Product 2,Sports,186.58,345.95
+SPO_02,Sports Product 3,Sports,113.72,134.79
+SPO_03,Sports Product 4,Sports,27.02,32.9
+SPO_04,Sports Product 5,Sports,65.33,90.85
+SPO_05,Sports Product 6,Sports,162.92,268.63
+SPO_06,Sports Product 7,Sports,26.26,43.27
+SPO_07,Sports Product 8,Sports,187.01,365.97
+SPO_08,Sports Product 9,Sports,122.14,166.35
+SPO_09,Sports Product 10,Sports,45.61,84.82
+FIT_00,Fitness Product 1,Fitness,171.8,221.67
+FIT_01,Fitness Product 2,Fitness,155.04,220.22
+FIT_02,Fitness Product 3,Fitness,145.66,204.67
+FIT_03,Fitness Product 4,Fitness,28.35,54.09
+FIT_04,Fitness Product 5,Fitness,144.09,177.16
+FIT_05,Fitness Product 6,Fitness,195.77,245.11
+FIT_06,Fitness Product 7,Fitness,25.58,31.4
+FIT_07,Fitness Product 8,Fitness,148.93,264.76
+FIT_08,Fitness Product 9,Fitness,95.73,133.82
+FIT_09,Fitness Product 10,Fitness,87.04,105.14
+GAM_00,Gaming Product 1,Gaming,155.85,189.2
+GAM_01,Gaming Product 2,Gaming,30.97,60.03
+GAM_02,Gaming Product 3,Gaming,135.34,241.18
+GAM_03,Gaming Product 4,Gaming,25.15,46.78
+GAM_04,Gaming Product 5,Gaming,178.14,271.87
+GAM_05,Gaming Product 6,Gaming,87.99,136.61
+GAM_06,Gaming Product 7,Gaming,11.26,19.44
+GAM_07,Gaming Product 8,Gaming,104.95,129.61
+GAM_08,Gaming Product 9,Gaming,69.88,111.77
+GAM_09,Gaming Product 10,Gaming,22.59,31.82
+HEA_00,Health Product 1,Health,149.01,272.97
+HEA_01,Health Product 2,Health,20.71,39.92
+HEA_02,Health Product 3,Health,157.76,205.98
+HEA_03,Health Product 4,Health,155.57,278.07
+HEA_04,Health Product 5,Health,70.07,83.2
+HEA_05,Health Product 6,Health,71.46,140.78
+HEA_06,Health Product 7,Health,21.36,32.89
+HEA_07,Health Product 8,Health,22.73,43.77
+HEA_08,Health Product 9,Health,22.31,33.83
+HEA_09,Health Product 10,Health,61.34,74.57
+BEA_00,Beauty Product 1,Beauty,28.78,34.46
+BEA_01,Beauty Product 2,Beauty,79.43,105.71
+BEA_02,Beauty Product 3,Beauty,155.53,187.23
+BEA_03,Beauty Product 4,Beauty,100.4,155.21
+BEA_04,Beauty Product 5,Beauty,161.11,255.73
+BEA_05,Beauty Product 6,Beauty,82.31,146.09
+BEA_06,Beauty Product 7,Beauty,134.91,181.14
+BEA_07,Beauty Product 8,Beauty,26.71,44.08
+BEA_08,Beauty Product 9,Beauty,142.05,159.41
+BEA_09,Beauty Product 10,Beauty,180.11,236.92
+AUT_00,Automotive Product 1,Automotive,74.17,98.2
+AUT_01,Automotive Product 2,Automotive,159.61,204.29
+AUT_02,Automotive Product 3,Automotive,148.15,197.75
+AUT_03,Automotive Product 4,Automotive,6.61,11.78
+AUT_04,Automotive Product 5,Automotive,96.22,118.89
+AUT_05,Automotive Product 6,Automotive,153.21,232.17
+AUT_06,Automotive Product 7,Automotive,119.21,140.27
+AUT_07,Automotive Product 8,Automotive,20.36,31.92
+AUT_08,Automotive Product 9,Automotive,74.95,142.04
+AUT_09,Automotive Product 10,Automotive,108.44,132.34
+GAR_00,Garden Product 1,Garden,121.66,168.8
+GAR_01,Garden Product 2,Garden,174.19,215.85
+GAR_02,Garden Product 3,Garden,6.21,12.18
+GAR_03,Garden Product 4,Garden,126.86,172.84
+GAR_04,Garden Product 5,Garden,69.84,97.23
+GAR_05,Garden Product 6,Garden,159.42,302.08
+GAR_06,Garden Product 7,Garden,117.65,141.43
+GAR_07,Garden Product 8,Garden,66.94,73.87
+GAR_08,Garden Product 9,Garden,88.12,176.18
+GAR_09,Garden Product 10,Garden,161.83,247.16
+FOO_00,Footwear Product 1,Footwear,55.46,98.16
+FOO_01,Footwear Product 2,Footwear,37.09,41.55
+FOO_02,Footwear Product 3,Footwear,141.74,170.09
+FOO_03,Footwear Product 4,Footwear,61.55,91.25
+FOO_04,Footwear Product 5,Footwear,93.5,174.07
+FOO_05,Footwear Product 6,Footwear,26.63,31.26
+FOO_06,Footwear Product 7,Footwear,174.47,334.66
+FOO_07,Footwear Product 8,Footwear,6.97,13.34
+FOO_08,Footwear Product 9,Footwear,175.13,284.78
+FOO_09,Footwear Product 10,Footwear,56.32,63.95
+JEW_00,Jewelry Product 1,Jewelry,63.66,120.12
+JEW_01,Jewelry Product 2,Jewelry,132.89,161.52
+JEW_02,Jewelry Product 3,Jewelry,141.48,221.85
+JEW_03,Jewelry Product 4,Jewelry,154.09,251.58
+JEW_04,Jewelry Product 5,Jewelry,199.36,277.58
+JEW_05,Jewelry Product 6,Jewelry,51.49,97.0
+JEW_06,Jewelry Product 7,Jewelry,85.09,167.97
+JEW_07,Jewelry Product 8,Jewelry,93.78,111.1
+JEW_08,Jewelry Product 9,Jewelry,84.57,99.63
+JEW_09,Jewelry Product 10,Jewelry,69.98,79.85
+MUS_00,Music Product 1,Music,25.74,48.56
+MUS_01,Music Product 2,Music,117.83,187.64
+MUS_02,Music Product 3,Music,78.1,128.23
+MUS_03,Music Product 4,Music,5.31,8.8
+MUS_04,Music Product 5,Music,173.01,228.93
+MUS_05,Music Product 6,Music,38.57,71.56
+MUS_06,Music Product 7,Music,55.09,83.34
+MUS_07,Music Product 8,Music,87.53,125.91
+MUS_08,Music Product 9,Music,190.64,229.43
+MUS_09,Music Product 10,Music,166.7,294.71
+OFF_00,Office Supplies Product 1,Office Supplies,5.22,9.87
+OFF_01,Office Supplies Product 2,Office Supplies,93.97,146.28
+OFF_02,Office Supplies Product 3,Office Supplies,10.51,19.68
+OFF_03,Office Supplies Product 4,Office Supplies,94.81,111.21
+OFF_04,Office Supplies Product 5,Office Supplies,70.51,121.89
+OFF_05,Office Supplies Product 6,Office Supplies,102.98,143.64
+OFF_06,Office Supplies Product 7,Office Supplies,130.36,180.98
+OFF_07,Office Supplies Product 8,Office Supplies,117.14,167.29
+OFF_08,Office Supplies Product 9,Office Supplies,127.11,253.23
+OFF_09,Office Supplies Product 10,Office Supplies,165.39,222.1
+BAB_00,Baby Products Product 1,Baby Products,163.77,249.0
+BAB_01,Baby Products Product 2,Baby Products,96.8,135.99
+BAB_02,Baby Products Product 3,Baby Products,84.18,133.65
+BAB_03,Baby Products Product 4,Baby Products,119.08,169.52
+BAB_04,Baby Products Product 5,Baby Products,40.09,71.47
+BAB_05,Baby Products Product 6,Baby Products,73.4,89.73
+BAB_06,Baby Products Product 7,Baby Products,163.72,277.04
+BAB_07,Baby Products Product 8,Baby Products,188.75,234.96
+BAB_08,Baby Products Product 9,Baby Products,56.15,64.7
+BAB_09,Baby Products Product 10,Baby Products,39.94,51.12
+PET_00,Pet Supplies Product 1,Pet Supplies,108.27,160.73
+PET_01,Pet Supplies Product 2,Pet Supplies,134.96,163.75
+PET_02,Pet Supplies Product 3,Pet Supplies,29.01,40.81
+PET_03,Pet Supplies Product 4,Pet Supplies,157.21,187.95
+PET_04,Pet Supplies Product 5,Pet Supplies,9.91,15.02
+PET_05,Pet Supplies Product 6,Pet Supplies,66.72,124.25
+PET_06,Pet Supplies Product 7,Pet Supplies,19.91,33.9
+PET_07,Pet Supplies Product 8,Pet Supplies,166.91,296.12
+PET_08,Pet Supplies Product 9,Pet Supplies,156.92,187.58
+PET_09,Pet Supplies Product 10,Pet Supplies,154.98,279.54
+TOO_00,Tools Product 1,Tools,14.82,28.79
+TOO_01,Tools Product 2,Tools,83.87,127.54
+TOO_02,Tools Product 3,Tools,63.61,71.84
+TOO_03,Tools Product 4,Tools,144.57,221.11
+TOO_04,Tools Product 5,Tools,67.23,99.53
+TOO_05,Tools Product 6,Tools,40.91,61.05
+TOO_06,Tools Product 7,Tools,94.37,146.96
+TOO_07,Tools Product 8,Tools,156.29,292.49
+TOO_08,Tools Product 9,Tools,168.12,204.87
+TOO_09,Tools Product 10,Tools,16.39,23.74
